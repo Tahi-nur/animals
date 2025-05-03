@@ -6,14 +6,13 @@ Ever wondered about the creatures that rule the watery depths? From the playful 
 Dive in below to explore these incredible creatures:
 
 ## 🐬 **Meet the Dolphin**: The Ocean's Acrobat
-[Click here to meet the dolphin](dolphin.md) – one of the most intelligent and playful creatures of the sea. With their acrobatics, social bonds, and high-pitched whistles, dolphins are the ocean’s entertainers. Did you know that dolphins can communicate with each other through a series of clicks and whistles? Dive into the dolphin’s world to discover their incredible life!
+[Click here to meet the dolphin](dolphin.md) 
 
 ## 🐢 **The Sea Turtle**: Ancient Travelers of the Ocean
-[Click here to learn about sea turtles](sea-turtle.md) – these graceful swimmers have been gliding through the world’s oceans for over 100 million years! Their long journeys across continents make them true ocean nomads. Discover their life cycle, the challenges they face, and their fascinating migration patterns.
+[Click here to learn about sea turtles](sea-turtle.md) 
 
 ## 🐧 **The Penguin**: The Adorable Antarctic Wanderers
-[Click here to meet the penguin](penguin.md) – always dapper in their tuxedos, penguins are some of the most charming creatures on Earth. Despite their cute appearance, these birds are expert swimmers and can navigate freezing waters with ease. Find out how they survive the harsh conditions of the Antarctic and why they’re the true masters of the cold!
-
+[Click here to meet the penguin](penguin.md) 
 ---
 
 ## 🌍 **Why Water Creatures?**
